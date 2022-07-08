@@ -11,28 +11,7 @@ var dataBase = [
 
 ]
 
-var timeLine = [
-    {
-        username : 'nissi',
-        password : 'im a diamond'
-    },
-    {
-        username : 'david',
-        password : 'call me Nyame Ay3, i feel good'
-    },
-    {
-        username : 'zion',
-        password : 'Star boy is my name'
-    },
-    {
-        username : 'bumike',
-        password : 'Im one in a million'
-    },
-    {
-        username : 'asher',
-        password : 'my delicacies are fit for a king'
-    },
-]
+var timeLine = document.getElementById('gallery');
 
 
 
